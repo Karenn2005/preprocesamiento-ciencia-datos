@@ -14,3 +14,4 @@ def codificar_categoricas(df):
     return pd.get_dummies(df)
 
 print("Funciones de preprocesamiento creadas correctamente.")
+print("Proyecto actualizado en la rama feature-preprocesamiento")
